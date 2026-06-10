@@ -1,4 +1,5 @@
-Gabriella Sant'Ana
-Erick Nathan
-Gabriel Silva
-Gustavo Martins
+Integrantes: 
+Gabriella Sant'Ana,
+Erick Nathan,
+Gabriel Silva,
+Gustavo Martins,
